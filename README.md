@@ -40,7 +40,7 @@ Enjoy my profile!
 ## Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipenicolettirmario@gmail.com)](mailto:felipenicolettirmario@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-nicoletti-reis-mario-b52a0a169//)](https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-nicoletti-reis-mario-b52a0a169//)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-nicoletti-reis-mario-b52a0a169//)](https://www.linkedin.com/in/felipe-nicoletti-reis-mario-b52a0a169/)
 
 
 
