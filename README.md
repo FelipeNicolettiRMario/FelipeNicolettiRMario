@@ -12,9 +12,9 @@ My most relevant experiences are:
 - ✈️ Aviation Sector
 - 👷 Quality Sector
 - 🛍️ E-Commerce Sector
-- 💰 Loan company
+- 💰 Credit company
 
-Actually I'm working in a company that provides acessible loans for people, mainly in Brazil.
+Actually looking for new opportunities.
 
 I work developing web applications, data colectors, integrations with APIs, etc...
 
